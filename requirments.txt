@@ -1,0 +1,7 @@
+sklearn
+numpy
+pandas
+scipy
+json
+os
+IPython
