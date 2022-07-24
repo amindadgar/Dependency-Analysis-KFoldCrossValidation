@@ -28,5 +28,5 @@ To reproduce the results
 
 - After that remove the folder `results` or move it to another location and make an empty folder with a same name. 
 
-Finally run the all the cells in the `main.ipynb` notebook and wait for it to be finished.
+- Finally run the all the cells in the `main.ipynb` notebook and wait for it to be finished.
 
